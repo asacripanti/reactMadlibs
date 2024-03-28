@@ -1,0 +1,25 @@
+.madlibsForm{
+    display: flex;
+    flex-direction: column;
+    width: 170px;
+}
+
+.madlibShell{
+    width: 300px;
+    /* display: flex; */
+    position: absolute;
+    bottom: 350px;
+}
+
+.madlibMessage{
+    font-size: 12px;
+}
+
+.appShell{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+
